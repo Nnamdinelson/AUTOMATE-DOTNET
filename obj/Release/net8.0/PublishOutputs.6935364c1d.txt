@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\bin\Release\net8.0\publish\AUTOMATE DOTNET APP.exe
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\bin\Release\net8.0\publish\appsettings.json
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\bin\Release\net8.0\publish\AUTOMATE DOTNET APP.dll
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\bin\Release\net8.0\publish\AUTOMATE DOTNET APP.deps.json
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\bin\Release\net8.0\publish\AUTOMATE DOTNET APP.runtimeconfig.json
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\bin\Release\net8.0\publish\AUTOMATE DOTNET APP.pdb

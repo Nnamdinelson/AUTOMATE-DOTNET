@@ -1,0 +1,30 @@
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\bin\Release\net8.0\appsettings.Development.json
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\bin\Release\net8.0\appsettings.json
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\bin\Release\net8.0\AUTOMATE DOTNET APP.staticwebassets.runtime.json
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\bin\Release\net8.0\AUTOMATE DOTNET APP.exe
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\bin\Release\net8.0\AUTOMATE DOTNET APP.deps.json
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\bin\Release\net8.0\AUTOMATE DOTNET APP.runtimeconfig.json
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\bin\Release\net8.0\AUTOMATE DOTNET APP.dll
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\bin\Release\net8.0\AUTOMATE DOTNET APP.pdb
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\AUTOMATE DOTNET APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\AUTOMATE DOTNET APP.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\AUTOMATE DOTNET APP.AssemblyInfo.cs
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\AUTOMATE DOTNET APP.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\AUTOMATE DOTNET APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\AUTOMATE DOTNET APP.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\AUTOMATE DOTNET APP.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\staticwebassets\msbuild.AUTOMATE DOTNET APP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\staticwebassets\msbuild.build.AUTOMATE DOTNET APP.props
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.AUTOMATE DOTNET APP.props
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.AUTOMATE DOTNET APP.props
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\scopedcss\bundle\AUTOMATE DOTNET APP.styles.css
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\scopedcss\projectbundle\AUTOMATE DOTNET APP.bundle.scp.css
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\AUTOMATE DOTNET APP.dll
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\refint\AUTOMATE DOTNET APP.dll
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\AUTOMATE DOTNET APP.pdb
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\AUTOMATE DOTNET APP.genruntimeconfig.cache
+C:\Users\PC\Desktop\DOTNET AUTO\AUTOMATE-DOTNET-APP\obj\Release\net8.0\ref\AUTOMATE DOTNET APP.dll

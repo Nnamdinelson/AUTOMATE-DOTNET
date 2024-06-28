@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AUTOMATE DOTNET APP.props" />
+</Project>
